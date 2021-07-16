@@ -1,7 +1,7 @@
 public class Code12{
 
     public static void main(String args[]){
-        printBinary(18);
+        printBinary(8);
     }
 
     public static void printBinary(int n){
